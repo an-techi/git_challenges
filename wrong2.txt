@@ -1,0 +1,1 @@
+This is another wrong commit for Git practice
